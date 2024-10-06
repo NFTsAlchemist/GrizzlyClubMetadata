@@ -1,0 +1,18 @@
+{
+    "name": "Grizzly Club",
+    "symbol": "GRZZ",
+    "uri": "https://example.com/token-metadata.json",
+    "seller_fee_basis_points": 0,
+    "creators": [
+        {
+            "address": "94PvK2RCSNyueJcaMAZ3zEob2UkXieWUndW2b2hedQAD",
+            "share": 100
+        }
+    ],
+    "description": "💎 Grizzly Club: Created by 3D artists, we’re giving our holders access to rare 3D NFTs. Get ready for the next level of crypto where art, community, and innovation collide. Let’s roar together! 💥",
+    "external_url": "https://grizzlyclub.org/",
+    "properties": {
+        "twitter": "https://x.com/GrizzlyClub_NFT",
+        "telegram": "https://t.me/GrizzlyClub_NFT"
+    }
+}
